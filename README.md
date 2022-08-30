@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a high school student
+- 🌱 I’m currently learning Python and Web2App development
+- 💬 Ask me about Minecraft server operations and technical issues
+- 📫 How to reach me: inwinter04@163.com
