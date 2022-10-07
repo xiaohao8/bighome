@@ -19,3 +19,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python and Web2App development
 - 💬 Ask me about Minecraft server operations and technical issues
 - 📫 How to reach me: inwinter04@163.com
+
+### Stats
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=inwinter04&count_private=true&show_icons=true&hide_border=true" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inwinter04&count_private=true&hide=hack&layout=compact&hide_border=true" />
+    </td>   
+  </tr>
+</table>
