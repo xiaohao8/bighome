@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Minecraft server operations and technical issues
 - 📫 How to reach me: inwinter04@163.com
 
+### My GitHub Contributions
+![](https://raw.githubusercontent.com/inwinter04/inwinter04/main/assets/github-contribution-grid-snake.svg)
+
 ### Stats
 
 <table>
